@@ -36,13 +36,7 @@ Passionate about building web applications and solving real-world problems throu
 - VS Code
 - Android Studio
 
-## 📌 Projects
 
-### 🚗 Car Rental Management System
-Symfony application for vehicle rental management.
-
-### 🌐 GNM MLM Platform
-MLM management platform with network hierarchy and commission management.
 
 ## 📫 Contact
 
