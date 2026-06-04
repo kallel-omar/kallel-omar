@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Omar Kallel 👋
 
-<!--
-**kallel-omar/kallel-omar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer  
+🎓 Software Engineering Graduate (Licence en Génie Logiciel)  
+🌍 Tunisia 🇹🇳
 
-Here are some ideas to get you started:
+Passionate about building web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Full-Stack Developer
+- ⚙️ Specialized in PHP & Symfony
+- 🗄️ MySQL Database Design
+- 🌱 Always learning and improving
+
+
+## 🛠️ Tech Stack
+
+### Backend
+- PHP
+- Symfony
+- Doctrine ORM
+- MySQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Twig
+
+### Tools
+- Git
+- GitHub
+- Composer
+- VS Code
+- Android Studio
+
+## 📌 Projects
+
+### 🚗 Car Rental Management System
+Symfony application for vehicle rental management.
+
+### 🌐 GNM MLM Platform
+MLM management platform with network hierarchy and commission management.
+
+## 📫 Contact
+
+📧 omarkallel93@gmail.com
